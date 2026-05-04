@@ -1,1 +1,24 @@
 venv/
+
+# macOS specifics
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Finder folder view settings
+Icon?
+
+# Apple metadata
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.apdisk
